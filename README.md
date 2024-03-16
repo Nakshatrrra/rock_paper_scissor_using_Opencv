@@ -15,4 +15,5 @@
 ### run
             python main.py
 
-![image](https://github.com/Nakshatrrra/mosquito-game-using-OpenCV/assets/95171021/66751fdd-01e0-4aaf-8427-c01621c3f1ee)
+![image](https://github.com/Nakshatrrra/rock_paper_scissor_using_Opencv/assets/95171021/913d89d6-b1fd-41be-ac81-4386ccd15c04)
+
